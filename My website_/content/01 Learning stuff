@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+<body>
+
+<h1>  My first heading  </h1>
+<h2>  My second heading </h2>
+<h3>  My third heading </h3>
+<h4>  My fourth heading </h4>
+<h6>  Me skipping a heading </h6>
+<p> (You get where this is going) </p>
+
+<h1>  Paragraphs: </h1>
+<p> My first paragraph.  </p>
+<p> My second paragraph bc why not.  </p>
+
+<a href="https://vignette.wikia.nocookie.net/the-rising-of-the-shield-hero/images/2/2a/Naofumi_Anime.png/revision/latest/scale-to-width-down/275?cb=20181111114915"> This is a link to da nice naofumi pic </a>
+<p>
+<img src="https://vignette.wikia.nocookie.net/the-rising-of-the-shield-hero/images/2/2a/Naofumi_Anime.png/revision/latest/scale-to-width-down/275?cb=20181111114915"  alt="Naofumi" width="100">
+<p>
+<button>  Hit me  </button>
+
+<h1>  Lists: </h1>
+<p>
+<h4>  Best characters --> </h4>
+<ol>
+  <li> Raphtalia (duh) </li>
+  <img src="https://i.pinimg.com/originals/7b/14/0d/7b140ded177df7ac810420b8809dff26.jpg" alt="Raphtalia" width="100"
+  <p>
+  <li>  Naofumi (he cool) </li>
+  <img src="https://vignette.wikia.nocookie.net/the-rising-of-the-shield-hero/images/2/2a/Naofumi_Anime.png/revision/latest/scale-to-width-down/275?cb=20181111114915"  alt="Naofumi" width="100">
+
+</body>
+</html>
